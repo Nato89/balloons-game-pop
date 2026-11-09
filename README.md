@@ -1,8 +1,16 @@
 # Balloon Pop
 
-## Demo
+> Juego de reflejos para navegador: revienta los globos antes de que escapen y consigue la mayor puntuación.
 
-🎈 [Juega Balloon Pop](https://balloons-game-pop.web.app)
+## Demo en vivo
+
+🎈 **[Juega Balloon Pop](https://balloons-game-pop.web.app)**
+
+## Vista previa
+
+![Gameplay de Balloon Pop](docs/balloon-pop-gameplay.gif)
+
+## Sobre el proyecto
 
 **Balloon Pop** es un juego de reflejos para navegador. Revienta los globos antes de que escapen por la parte superior de la pantalla: cada globo que dejas pasar te cuesta una vida. La partida termina al perder las cinco vidas.
 
